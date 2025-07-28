@@ -1,0 +1,334 @@
+{
+  "metadata": {
+    "input_documents": [
+      "2022-alphabet-annual-report.pdf"
+    ],
+    "persona": "Persona: Investment Analyst\nJob-to-be-done: Analyze revenue trends, R&D investments, and market positioning strategies",
+    "job_to_be_done": "Analyze revenue trends, R&D investments, and market positioning strategies",
+    "processing_timestamp": "2025-07-28T18:45:31.667364Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 44,
+      "section_title": "including by making acquisitions, continuing to invest heavily in R&D and in talent, initiating intellectual property an",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.627881920337677,
+      "importance_rank": 1
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 64,
+      "section_title": "R&D, sales and marketing, and general and administrative functions. Certain of our costs and expenses, including those a",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.6150651097297668,
+      "importance_rank": 2
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 58,
+      "section_title": "invest for the long-term growth of the business. We regularly evaluate our cash and capital structure, including the siz",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.6091047286987304,
+      "importance_rank": 3
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 45,
+      "section_title": "investment areas face intense competition from large, experienced, and well-funded competitors, and our offerings, many ",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.5974943995475769,
+      "importance_rank": 4
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 66,
+      "section_title": "primarily in cost of revenues and R&D expenses.",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.5856717944145202,
+      "importance_rank": 5
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 104,
+      "section_title": "future funding commitments. We have determined that the single source of our exposure to these VIEs is our capital inves",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.5832370758056641,
+      "importance_rank": 6
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 45,
+      "section_title": "online advertising. Such investments ultimately may not be commercially viable or may not result in an adequate return o",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.5803749322891235,
+      "importance_rank": 7
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 71,
+      "section_title": "from operations. The primary use of capital continues to be to invest for the long-term growth of the business. We regul",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.5756740927696228,
+      "importance_rank": 8
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 55,
+      "section_title": "Acquisitions, joint ventures, investments, and divestitures are important elements of our overall corporate strategy and",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.573470675945282,
+      "importance_rank": 9
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 38,
+      "section_title": "development (R&D) expenses, sales and marketing expenses,",
+      "level": "H1",
+      "language": "fr",
+      "bold": false,
+      "boosted_score": 0.5720679700374603,
+      "importance_rank": 10
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 41,
+      "section_title": "Other Bets includes businesses that are at various stages of development, ranging from those in the R&D phase to those t",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.5602359652519227,
+      "importance_rank": 11
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 64,
+      "section_title": "marketing, or general and administrative.",
+      "level": "H1",
+      "language": "da",
+      "bold": false,
+      "boosted_score": 0.5440914511680603,
+      "importance_rank": 12
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 61,
+      "section_title": "to our users in these markets. This has led to a trend of increased revenues from emerging markets. We expect that our r",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.5408908069133759,
+      "importance_rank": 13
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 76,
+      "section_title": "Our Corporate Treasury investment strategy is to achieve a return that will allow us to preserve capital and maintain li",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.5399393081665039,
+      "importance_rank": 14
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 62,
+      "section_title": "We continue to make significant research and development investments in areas of strategic focus as we seek to develop n",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.5360703825950622,
+      "importance_rank": 15
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 75,
+      "section_title": "revenues and R&D expenses. See Note 1 of the Notes to Consolidated Financial Statements included in Item 8 of this Annua",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.5346455693244934,
+      "importance_rank": 16
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 70,
+      "section_title": "settlements, as well as costs associated with certain shared R&D activities. Additionally, hedging gains (losses) relate",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.5287890553474426,
+      "importance_rank": 17
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 91,
+      "section_title": "a market approach or an income approach.",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.5267280220985413,
+      "importance_rank": 18
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 38,
+      "section_title": "in acquisitions and strategic investments;",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.5236455976963044,
+      "importance_rank": 19
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 84,
+      "section_title": "Available-for-sale investments:",
+      "level": "H1",
+      "language": "fr",
+      "bold": false,
+      "boosted_score": 0.5211531400680542,
+      "importance_rank": 20
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 44,
+      "refined_text": "including by making acquisitions, continuing to invest heavily in R&D and in talent, initiating intellectual property and competition",
+      "page_number": 44
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 64,
+      "refined_text": "R&D, sales and marketing, and general and administrative functions. Certain of our costs and expenses, including those associated",
+      "page_number": 64
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 58,
+      "refined_text": "invest for the long-term growth of the business. We regularly evaluate our cash and capital structure, including the size, pace, and",
+      "page_number": 58
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 45,
+      "refined_text": "investment areas face intense competition from large, experienced, and well-funded competitors, and our offerings, many of which",
+      "page_number": 45
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 66,
+      "refined_text": "primarily in cost of revenues and R&D expenses.",
+      "page_number": 66
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 104,
+      "refined_text": "future funding commitments. We have determined that the single source of our exposure to these VIEs is our capital investments",
+      "page_number": 104
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 45,
+      "refined_text": "online advertising. Such investments ultimately may not be commercially viable or may not result in an adequate return of capital and,",
+      "page_number": 45
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 71,
+      "refined_text": "from operations. The primary use of capital continues to be to invest for the long-term growth of the business. We regularly evaluate",
+      "page_number": 71
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 55,
+      "refined_text": "Acquisitions, joint ventures, investments, and divestitures are important elements of our overall corporate strategy and use of capital,",
+      "page_number": 55
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 38,
+      "refined_text": "development (R&D) expenses, sales and marketing expenses,",
+      "page_number": 38
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 41,
+      "refined_text": "Other Bets includes businesses that are at various stages of development, ranging from those in the R&D phase to those that are in",
+      "page_number": 41
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 64,
+      "refined_text": "marketing, or general and administrative.",
+      "page_number": 64
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 61,
+      "refined_text": "to our users in these markets. This has led to a trend of increased revenues from emerging markets. We expect that our results will",
+      "page_number": 61
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 76,
+      "refined_text": "Our Corporate Treasury investment strategy is to achieve a return that will allow us to preserve capital and maintain liquidity. We invest",
+      "page_number": 76
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 62,
+      "refined_text": "We continue to make significant research and development investments in areas of strategic focus as we seek to develop new,",
+      "page_number": 62
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 75,
+      "refined_text": "revenues and R&D expenses. See Note 1 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report",
+      "page_number": 75
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 70,
+      "refined_text": "settlements, as well as costs associated with certain shared R&D activities. Additionally, hedging gains (losses) related to revenue are included in corporate",
+      "page_number": 70
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 91,
+      "refined_text": "a market approach or an income approach.",
+      "page_number": 91
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 38,
+      "refined_text": "in acquisitions and strategic investments;",
+      "page_number": 38
+    },
+    {
+      "document": "2022-alphabet-annual-report.pdf",
+      "page": 84,
+      "refined_text": "Available-for-sale investments:",
+      "page_number": 84
+    }
+  ]
+}

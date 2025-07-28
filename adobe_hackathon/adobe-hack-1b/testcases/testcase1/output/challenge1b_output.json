@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "input_documents": [
+      "2203.12852v2.pdf",
+      "Accelerating-Drug-Discovery-with-Graph-Neural-Networks-and-Molecular-Property-Prediction.pdf",
+      "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "mathematics-10-04550.pdf"
+    ],
+    "persona": "",
+    "job_to_be_done": "",
+    "processing_timestamp": "2025-07-28T18:44:44.078495Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "page": 57,
+      "section_title": "ordering, coming at the cost of a loss of generality.",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.3002792954444885,
+      "importance_rank": 1
+    },
+    {
+      "document": "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "page": 33,
+      "section_title": "spam detection [70], community detection [65], sentiment analysis [2], con-",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.24444077908992767,
+      "importance_rank": 2
+    },
+    {
+      "document": "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "page": 121,
+      "section_title": "lieving in me and for supporting me through all my projects. They showed",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.24027244746685028,
+      "importance_rank": 3
+    },
+    {
+      "document": "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "page": 127,
+      "section_title": "[45] J. Redmon, S. Divvala, R. Girshick, and A. Farhadi, “You only look",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.2365134358406067,
+      "importance_rank": 4
+    },
+    {
+      "document": "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "page": 5,
+      "section_title": ". . . . . . . . . . . . . . . .",
+      "level": "H1",
+      "language": "unknown",
+      "bold": false,
+      "boosted_score": 0.23264175653457642,
+      "importance_rank": 5
+    },
+    {
+      "document": "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "page": 126,
+      "section_title": "preprint arXiv:1406.1078 , 2014.",
+      "level": "H1",
+      "language": "ro",
+      "bold": false,
+      "boosted_score": 0.23121699690818787,
+      "importance_rank": 6
+    },
+    {
+      "document": "2203.12852v2.pdf",
+      "page": 34,
+      "section_title": "adversarial networks ,  CoRR  abs/1812.04948  (2018) [ 1812.04948 ].",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.2273397147655487,
+      "importance_rank": 7
+    },
+    {
+      "document": "Accelerating-Drug-Discovery-with-Graph-Neural-Networks-and-Molecular-Property-Prediction.pdf",
+      "page": 20,
+      "section_title": "in Decision-Making Mastery.\" (2024).",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.22658379673957824,
+      "importance_rank": 8
+    },
+    {
+      "document": "2203.12852v2.pdf",
+      "page": 21,
+      "section_title": "support and investment from the research community; we particularly encourage work on",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.225062358379364,
+      "importance_rank": 9
+    },
+    {
+      "document": "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "page": 55,
+      "section_title": "fect of encouraging the exploration of alternatives to the decision with the",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.22473753988742828,
+      "importance_rank": 10
+    },
+    {
+      "document": "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "page": 130,
+      "section_title": "ference , pp. 2022–2032, 2019.",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.22247043550014495,
+      "importance_rank": 11
+    },
+    {
+      "document": "2203.12852v2.pdf",
+      "page": 33,
+      "section_title": "spektral ,  CoRR  abs/2006.12138  (2020) [ 2006.12138 ].",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.21997453272342682,
+      "importance_rank": 12
+    },
+    {
+      "document": "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "page": 6,
+      "section_title": ". . . . . . . . . . . . . . . . . .",
+      "level": "H1",
+      "language": "unknown",
+      "bold": false,
+      "boosted_score": 0.21783849596977234,
+      "importance_rank": 13
+    },
+    {
+      "document": "mathematics-10-04550.pdf",
+      "page": 1,
+      "section_title": "Attribution (CC BY) license (https://",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.21504247188568115,
+      "importance_rank": 14
+    },
+    {
+      "document": "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "page": 116,
+      "section_title": "Candidate’s contributions:  manuscript writing (section on the com-",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.21390151977539062,
+      "importance_rank": 15
+    },
+    {
+      "document": "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "page": 96,
+      "section_title": "features are more informative. This determined that a subset of 13 features",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.21387872099876404,
+      "importance_rank": 16
+    },
+    {
+      "document": "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "page": 121,
+      "section_title": "was stimulating from the academic point of view, and a pleasurable experi-",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.21364301443099976,
+      "importance_rank": 17
+    },
+    {
+      "document": "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "page": 116,
+      "section_title": "Bongini , Armando Tacchella, Alessandro Sperduti. (2022). Towards",
+      "level": "H1",
+      "language": "it",
+      "bold": false,
+      "boosted_score": 0.212976935505867,
+      "importance_rank": 18
+    },
+    {
+      "document": "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "page": 145,
+      "section_title": "large-scale image recognition,” 2014.",
+      "level": "H1",
+      "language": "it",
+      "bold": false,
+      "boosted_score": 0.21230626106262207,
+      "importance_rank": 19
+    },
+    {
+      "document": "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "page": 131,
+      "section_title": "attention,” in  Proceedings of the 24th ACM SIGKDD International",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.21191802620887756,
+      "importance_rank": 20
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "page": 57,
+      "refined_text": "ordering, coming at the cost of a loss of generality.",
+      "page_number": 57
+    },
+    {
+      "document": "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "page": 33,
+      "refined_text": "spam detection [70], community detection [65], sentiment analysis [2], con-",
+      "page_number": 33
+    },
+    {
+      "document": "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "page": 121,
+      "refined_text": "lieving in me and for supporting me through all my projects. They showed",
+      "page_number": 121
+    },
+    {
+      "document": "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "page": 127,
+      "refined_text": "[45] J. Redmon, S. Divvala, R. Girshick, and A. Farhadi, “You only look",
+      "page_number": 127
+    },
+    {
+      "document": "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "page": 5,
+      "refined_text": ". . . . . . . . . . . . . . . .",
+      "page_number": 5
+    },
+    {
+      "document": "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "page": 126,
+      "refined_text": "preprint arXiv:1406.1078 , 2014.",
+      "page_number": 126
+    },
+    {
+      "document": "2203.12852v2.pdf",
+      "page": 34,
+      "refined_text": "adversarial networks ,  CoRR  abs/1812.04948  (2018) [ 1812.04948 ].",
+      "page_number": 34
+    },
+    {
+      "document": "Accelerating-Drug-Discovery-with-Graph-Neural-Networks-and-Molecular-Property-Prediction.pdf",
+      "page": 20,
+      "refined_text": "in Decision-Making Mastery.\" (2024).",
+      "page_number": 20
+    },
+    {
+      "document": "2203.12852v2.pdf",
+      "page": 21,
+      "refined_text": "support and investment from the research community; we particularly encourage work on",
+      "page_number": 21
+    },
+    {
+      "document": "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "page": 55,
+      "refined_text": "fect of encouraging the exploration of alternatives to the decision with the",
+      "page_number": 55
+    },
+    {
+      "document": "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "page": 130,
+      "refined_text": "ference , pp. 2022–2032, 2019.",
+      "page_number": 130
+    },
+    {
+      "document": "2203.12852v2.pdf",
+      "page": 33,
+      "refined_text": "spektral ,  CoRR  abs/2006.12138  (2020) [ 2006.12138 ].",
+      "page_number": 33
+    },
+    {
+      "document": "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "page": 6,
+      "refined_text": ". . . . . . . . . . . . . . . . . .",
+      "page_number": 6
+    },
+    {
+      "document": "mathematics-10-04550.pdf",
+      "page": 1,
+      "refined_text": "Attribution (CC BY) license (https://",
+      "page_number": 1
+    },
+    {
+      "document": "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "page": 116,
+      "refined_text": "Candidate’s contributions:  manuscript writing (section on the com-",
+      "page_number": 116
+    },
+    {
+      "document": "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "page": 96,
+      "refined_text": "features are more informative. This determined that a subset of 13 features",
+      "page_number": 96
+    },
+    {
+      "document": "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "page": 121,
+      "refined_text": "was stimulating from the academic point of view, and a pleasurable experi-",
+      "page_number": 121
+    },
+    {
+      "document": "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "page": 116,
+      "refined_text": "Bongini , Armando Tacchella, Alessandro Sperduti. (2022). Towards",
+      "page_number": 116
+    },
+    {
+      "document": "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "page": 145,
+      "refined_text": "large-scale image recognition,” 2014.",
+      "page_number": 145
+    },
+    {
+      "document": "Graph+Neural+Networks+for+Molecular+Data.pdf",
+      "page": 131,
+      "refined_text": "attention,” in  Proceedings of the 24th ACM SIGKDD International",
+      "page_number": 131
+    }
+  ]
+}

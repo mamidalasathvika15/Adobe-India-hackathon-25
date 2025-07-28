@@ -1,0 +1,334 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Introductory-Organic-Chemistry-1649865783.pdf"
+    ],
+    "persona": "Persona: Undergraduate Chemistry Student\nJob-to-be-done: Identify key concepts and mechanisms for exam preparation on reaction kinetics",
+    "job_to_be_done": "Identify key concepts and mechanisms for exam preparation on reaction kinetics",
+    "processing_timestamp": "2025-07-28T18:46:15.956478Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 230,
+      "section_title": "be running chemical reactions, analytical chemists may be working",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.6026667952537537,
+      "importance_rank": 1
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 233,
+      "section_title": "encountered by chemists and chemistry students.",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.5900807976722717,
+      "importance_rank": 2
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 210,
+      "section_title": "The practice of organic chemistry includes understanding, planning",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.585456907749176,
+      "importance_rank": 3
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 46,
+      "section_title": "(or fellow chemistry student) differently than you would make it",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.5850681066513062,
+      "importance_rank": 4
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 202,
+      "section_title": "Chemists often use a form of mental model called a reaction",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.5644302368164062,
+      "importance_rank": 5
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 203,
+      "section_title": "shared understandings of how chemistry works. But no mechanism",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.5608695149421692,
+      "importance_rank": 6
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 203,
+      "section_title": "Many, many reactions are understood both from practical",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.5555009245872498,
+      "importance_rank": 7
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 9,
+      "section_title": "Chemistry at Central Oregon Community College. The audience for",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.5538901686668396,
+      "importance_rank": 8
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 37,
+      "section_title": "chemistry, it may be worth committing these to memory, as they are",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.552239716053009,
+      "importance_rank": 9
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 9,
+      "section_title": "subdiscipline of Organic Chemistry. This will include students in",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.5413578152656555,
+      "importance_rank": 10
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 243,
+      "section_title": "In the chemistry lab similar thinking is employed to minimize",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.5294966697692871,
+      "importance_rank": 11
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 205,
+      "section_title": "reactions are perhaps among the most familiar of all chemical",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.5243593454360962,
+      "importance_rank": 12
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 9,
+      "section_title": "Introductory Chemistry course series, also known as a General,",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.5201069712638855,
+      "importance_rank": 13
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 42,
+      "section_title": "biological chemistry you may be expected to learn one or more",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.5168749690055847,
+      "importance_rank": 14
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 203,
+      "section_title": "illuminate the ways that chemical reactivity relates to chemical",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.5167869329452515,
+      "importance_rank": 15
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 245,
+      "section_title": "Administrative controls in the chemistry lab",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.5157476663589478,
+      "importance_rank": 16
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 242,
+      "section_title": "In work environments that are not primarily used as chemistry",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.5125118494033813,
+      "importance_rank": 17
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 230,
+      "section_title": "within the boundary of what we might call a ‘chemical laboratory’",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.5120431780815125,
+      "importance_rank": 18
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 80,
+      "section_title": "taught in chemistry classes. This phrase consolidates the patterns",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.5117889642715454,
+      "importance_rank": 19
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 75,
+      "section_title": "organic laboratory, reactions are often run in nonpolar or slightly",
+      "level": "H1",
+      "language": "en",
+      "bold": false,
+      "boosted_score": 0.5111935138702393,
+      "importance_rank": 20
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 230,
+      "refined_text": "be running chemical reactions, analytical chemists may be working",
+      "page_number": 230
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 233,
+      "refined_text": "encountered by chemists and chemistry students.",
+      "page_number": 233
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 210,
+      "refined_text": "The practice of organic chemistry includes understanding, planning",
+      "page_number": 210
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 46,
+      "refined_text": "(or fellow chemistry student) differently than you would make it",
+      "page_number": 46
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 202,
+      "refined_text": "Chemists often use a form of mental model called a reaction",
+      "page_number": 202
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 203,
+      "refined_text": "shared understandings of how chemistry works. But no mechanism",
+      "page_number": 203
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 203,
+      "refined_text": "Many, many reactions are understood both from practical",
+      "page_number": 203
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 9,
+      "refined_text": "Chemistry at Central Oregon Community College. The audience for",
+      "page_number": 9
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 37,
+      "refined_text": "chemistry, it may be worth committing these to memory, as they are",
+      "page_number": 37
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 9,
+      "refined_text": "subdiscipline of Organic Chemistry. This will include students in",
+      "page_number": 9
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 243,
+      "refined_text": "In the chemistry lab similar thinking is employed to minimize",
+      "page_number": 243
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 205,
+      "refined_text": "reactions are perhaps among the most familiar of all chemical",
+      "page_number": 205
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 9,
+      "refined_text": "Introductory Chemistry course series, also known as a General,",
+      "page_number": 9
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 42,
+      "refined_text": "biological chemistry you may be expected to learn one or more",
+      "page_number": 42
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 203,
+      "refined_text": "illuminate the ways that chemical reactivity relates to chemical",
+      "page_number": 203
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 245,
+      "refined_text": "Administrative controls in the chemistry lab",
+      "page_number": 245
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 242,
+      "refined_text": "In work environments that are not primarily used as chemistry",
+      "page_number": 242
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 230,
+      "refined_text": "within the boundary of what we might call a ‘chemical laboratory’",
+      "page_number": 230
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 80,
+      "refined_text": "taught in chemistry classes. This phrase consolidates the patterns",
+      "page_number": 80
+    },
+    {
+      "document": "Introductory-Organic-Chemistry-1649865783.pdf",
+      "page": 75,
+      "refined_text": "organic laboratory, reactions are often run in nonpolar or slightly",
+      "page_number": 75
+    }
+  ]
+}

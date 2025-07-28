@@ -1,0 +1,2 @@
+Persona: Investment Analyst
+Job-to-be-done: Analyze revenue trends, R&D investments, and market positioning strategies

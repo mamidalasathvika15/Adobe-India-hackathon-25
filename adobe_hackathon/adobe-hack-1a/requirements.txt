@@ -1,0 +1,2 @@
+PyMuPDF==1.23.6
+langdetect==1.0.9

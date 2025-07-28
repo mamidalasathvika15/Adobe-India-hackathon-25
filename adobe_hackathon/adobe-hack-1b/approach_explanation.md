@@ -1,0 +1,1 @@
+We used a rule-based extractor leveraging font-size heuristics to isolate headings and section titles. Each extracted snippet is tokenized and scored by keyword overlap with the provided persona and job description. Ranking is purely local and CPU-bound, ensuring sub-60-second processing for 3–5 PDFs without external APIs or models exceeding 1 GB.
